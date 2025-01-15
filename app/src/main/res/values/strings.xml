@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Juego del Numero Mayor</string>
+    <string name="textoExplicacion">Elige un botón con el número que sea mayor</string>
+    <string name="TextoResultado">Resultado aparecerá aquí</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="correcto">Correcto</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="TextoExplicacionJuego">Elige el número más alto</string>
+</resources>
